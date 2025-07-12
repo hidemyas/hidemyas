@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hidemyas
+- 👋 Hi, I’m Yusuf
 - 👀 I’m interested in AI  and WEB Development
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on python and machine learning
